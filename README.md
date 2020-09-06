@@ -1,4 +1,16 @@
+# azkaban-3.55.0 编译后的文件
 
+编译环境：
+
+WSL - ubuntu18.04 LTS
+
+一般我们需要使用到的文件在
+
+* azkaban-exec-server/build/distributions
+* azkaban-web-server/build/distributions
+* azkaban-db/build/distributions
+
+> 以下是原文的 README
 
 # Azkaban 
 
